@@ -1,0 +1,2 @@
+Magnetic-Tile-Defect  https://gitcode.com/Charmve/Surface-Defect-Detection/tree/master/Magnetic-Tile-Defect?utm_source=csdn_github_accelerator&isLogin=1
+NEUDET https://aistudio.baidu.com/datasetdetail/218435
